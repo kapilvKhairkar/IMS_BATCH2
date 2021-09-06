@@ -1,5 +1,5 @@
 # JSON_IMS_PROJECT
-## This is the project based on inventory management system where a user can generally buy a product which have been done in various managema=ent system in our daya to day life
+### This is the project based on inventory management system where a user can generally buy a product which have been done in various managema=ent system in our daya to day life
 ### Functionalites applied to project:
 1. Check the list of items with respect to batch id.
 2. Check the list item with respect to price.
