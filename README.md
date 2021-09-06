@@ -29,6 +29,10 @@
 4. Switch cases for funcionalites
 5. Simple if else conditions as well as while loops
 6. Input methods in python
+### Already processed data:
+1. Already updated the stock for id 101101 at increment of 6 using menu drive from notebook.
+2. Already added three products using menu drive i.e 101131 , 101132 and 101133.
+3. Already  deleted one product named 101133.
 ##### Created By:
 ##### Name: Kapil Khairkar
 ##### Batch: 2
